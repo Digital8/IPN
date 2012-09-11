@@ -1,0 +1,12 @@
+body{  
+    background: #2D2D2D; /* Set Website Background Color */  
+    font: 11px 'Verdana'; /* Set Website Font Size & Font Type */  
+}  
+  
+#wrap{  
+    margin: 0 auto; /* Center Our Content */  
+    width: 500px; /* Set The Width For Our Content */  
+    background: #FFF; /* Set Content Background Color */  
+    padding: 10px; /* Set Padding For Content */  
+    border: 1px solid #000; /* Add A Border Around The Content */  
+}
